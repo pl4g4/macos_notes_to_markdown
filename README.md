@@ -1,9 +1,8 @@
 # Notes Exporter and HTML Cleaner
 
-This repository contains two scripts:
+This repository contains one script:
 
 1. **AppleScript** (`export_notes.applescript`): Exports notes from macOS Notes app to Markdown files.
-2. **Bash Script** (`remove_html_tags.sh`): Removes all HTML tags from Markdown files in a specified folder.
 
 ## Instructions
 
